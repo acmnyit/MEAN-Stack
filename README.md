@@ -1,6 +1,6 @@
 # MEAN Stack Workshop
 
-One Paragraph of project description goes here
+The purpose of this workshop is to teacher members how to create a restful web api using stack applications. Our focus will be on MongoDB because of it's ability to handle large amounts of data and scale with our project as we progress. Express, Angular, and Node will be used for backend, fronend, and serverside processes in that order. However, there are other dependencies that will be used (jade, reactJS, etc.) occasionally. This workshop will not only teach the basics of MEAN stack applications but also teach students how to organize their development process using the SDLC. 
 
 ## Getting Started
 
